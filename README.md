@@ -1,7 +1,3 @@
-## Hi there 👋
-
-
-**Bharath-kumar4703/Bharath-kumar4703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi there, I'm Somala Bharath Kumar! 👋
 
@@ -13,9 +9,9 @@ With skills in **Excel, Power BI, SQL, Python, and Tableau**, I enjoy applying a
 
 ## 👨‍💻 About Me
 
-- 📊 **Aspiring Data Analyst**
-- 🌱 Currently Upskilling in **Data Analytics, SQL, Python, and Power BI**
-- 🎓 Bachelor's in **Electronics and Instrumentation Engineering**
+- 📊 **Aspiring Data Analyst, MIS Analyst**
+- 🌱 Currently Upskilling in **Data Analytics,Excel, SQL, Python, and Power BI**
+- 🎓 Bachelor's in **Computer Science Engineering**
 
 ---
 
@@ -48,7 +44,7 @@ Here are some of the certifications I have achieved:
 ## 🔗 Let's Connect!
 
 - 🔗 **LinkedIn:** [Click Here](https://www.linkedin.com/in/bharathkumar4703/)  
-- 🌐 **Portfolio:** [Click Here](YOUR_LINK_HERE)  
+- 🌐 **Portfolio:** [Click Here](https://portfolio-bharath-kumar.lovable.app/)  
 - 📧 **Email:** [yourmail@gmail.com](bharath4703@gmail.com)
 
 ---
