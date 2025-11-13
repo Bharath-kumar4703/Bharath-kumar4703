@@ -1,5 +1,5 @@
 
-# Hi there, I'm Somala Bharath Kumar! 👋
+# Hi there, I'm Bharath Kumar! 👋
 
 Welcome to my GitHub profile!  
 I'm passionate about transforming data into meaningful insights that help businesses make informed decisions.  
@@ -18,14 +18,12 @@ With skills in **Excel, Power BI, SQL, Python, and Tableau**, I enjoy applying a
 ## 🧰 Tools & Languages Used
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
 
 ---
 
@@ -33,11 +31,8 @@ With skills in **Excel, Power BI, SQL, Python, and Tableau**, I enjoy applying a
 
 Here are some of the certifications I have achieved:
 
-- 📘 **Excel: Mother of Business Intelligence** – [View Credentials](YOUR_LINK_HERE)
-- 📊 **Get Job Ready: Power BI Data Analytics (All Levels 3.0)** – [View Credentials](YOUR_LINK_HERE)
-- 🛢️ **SQL: Beginner to Advanced for Data Professionals** – [View Credentials](YOUR_LINK_HERE)
-- 🐍 **Python: Beginner to Advanced for Data Professionals** – [View Credentials](YOUR_LINK_HERE)
-- 🧠 **Data Analytics Bootcamp 5.0 (With Practical Job Assistance + AI Module)** – [View Credentials](YOUR_LINK_HERE)
+- 🛢️ **SQL: Beginner** – [View Credentials](https://www.hackerrank.com/certificates/64143b487fdb)
+- 🧠 **Professional Data Science** – [View Credentials](https://go.odinschool.com/verify-certificate)
 
 ---
 
@@ -45,7 +40,7 @@ Here are some of the certifications I have achieved:
 
 - 🔗 **LinkedIn:** [Click Here](https://www.linkedin.com/in/bharathkumar4703/)  
 - 🌐 **Portfolio:** [Click Here](https://portfolio-bharath-kumar.lovable.app/)  
-- 📧 **Email:** [yourmail@gmail.com](bharath4703@gmail.com)
+- 📧 **Email:** [Click Here](bharath4703@gmail.com)
 
 ---
 
