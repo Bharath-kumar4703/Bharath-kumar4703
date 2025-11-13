@@ -3,15 +3,55 @@
 
 **Bharath-kumar4703/Bharath-kumar4703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 👋 About Me
+# Hi there, I'm Somala Bharath Kumar! 👋
 
-- 🔭 I’m currently working on **Data Analytics Projects** involving SQL, Power BI, and Python.  
-- 🌱 I’m currently learning **advanced data visualization, DAX functions in Power BI, and statistical analysis using Python.**  
-- 👯 I’m looking to collaborate on **data-driven projects** where I can contribute to insights, dashboards, and automation.  
-- 🤔 I’m looking for help with **optimizing SQL queries and exploring machine learning integration in analytics workflows.**  
-- 💬 Ask me about **Power BI dashboards, Excel data analysis, and Python data manipulation (Pandas, NumPy).**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/somala-bharath-kumar) | [Email](mailto:yourmail@gmail.com)  
-- 😄 Pronouns: He / Him  
-- ⚡ Fun fact: I enjoy turning messy data into clean, insightful visual stories! 🚀  
+Welcome to my GitHub profile!  
+I'm passionate about transforming data into meaningful insights that help businesses make informed decisions.  
+With skills in **Excel, Power BI, SQL, Python, and Tableau**, I enjoy applying analytical techniques to solve real-world problems and create data-driven solutions.
 
+---
+
+## 👨‍💻 About Me
+
+- 📊 **Aspiring Data Analyst**
+- 🌱 Currently Upskilling in **Data Analytics, SQL, Python, and Power BI**
+- 🎓 Bachelor's in **Electronics and Instrumentation Engineering**
+
+---
+
+## 🧰 Tools & Languages Used
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 🎓 Certificates
+
+Here are some of the certifications I have achieved:
+
+- 📘 **Excel: Mother of Business Intelligence** – [View Credentials](YOUR_LINK_HERE)
+- 📊 **Get Job Ready: Power BI Data Analytics (All Levels 3.0)** – [View Credentials](YOUR_LINK_HERE)
+- 🛢️ **SQL: Beginner to Advanced for Data Professionals** – [View Credentials](YOUR_LINK_HERE)
+- 🐍 **Python: Beginner to Advanced for Data Professionals** – [View Credentials](YOUR_LINK_HERE)
+- 🧠 **Data Analytics Bootcamp 5.0 (With Practical Job Assistance + AI Module)** – [View Credentials](YOUR_LINK_HERE)
+
+---
+
+## 🔗 Let's Connect!
+
+- 🔗 **LinkedIn:** [Click Here](https://www.linkedin.com/in/bharathkumar4703/)  
+- 🌐 **Portfolio:** [Click Here](YOUR_LINK_HERE)  
+- 📧 **Email:** [yourmail@gmail.com](bharath4703@gmail.com)
+
+---
+
+Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
 
